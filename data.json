@@ -1,4 +1,17 @@
 {
-  "agents.bin": "B33882AF3D34829B4BC4B713139C3ED81DF674BD",
-  "skins.bin": "50741C0A96AE5A4E44809348C1AE7183D6DC579F"
+  "agents.bin": {
+    "sha1": "B33882AF3D34829B4BC4B713139C3ED81DF674BD",
+    "size": 404420,
+    "parts": [
+      "agents.bin"
+    ]
+  },
+  "skins.bin": {
+    "sha1": "50741C0A96AE5A4E44809348C1AE7183D6DC579F",
+    "size": 38507133,
+    "parts": [
+      "skins.bin.000",
+      "skins.bin.001"
+    ]
+  }
 }
